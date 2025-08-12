@@ -2,6 +2,10 @@
 
 Project Web Audit AI is a sophisticated, multi-agent AI system designed to autonomously perform deep privacy audits on live websites. This system mimics a human intelligence task force, dispatching specialized agents to analyze technical trackers, third-party cookies, and investigate unknown domains to generate a holistic, easy-to-understand risk assessment.
 
+Demo Screenshot:
+![Web Audit AI Demo](https://github.com/rutuja534/Web-Audit-AI/blob/81c6dead7caa374bb55ea0078bab0866532cf38c/Screenshot%202025-08-12%20191428.png)
+
+![Web Audit AI Demo](https://github.com/rutuja534/Web-Audit-AI/blob/81c6dead7caa374bb55ea0078bab0866532cf38c/Screenshot%202025-08-12%20191457.png)
 
 ## Target Audience & Use Cases
 
