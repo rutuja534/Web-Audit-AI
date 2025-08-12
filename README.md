@@ -7,15 +7,6 @@ Demo Screenshot:
 
 ![Web Audit AI Demo](https://github.com/rutuja534/Web-Audit-AI/blob/81c6dead7caa374bb55ea0078bab0866532cf38c/Screenshot%202025-08-12%20191457.png)
 
-## Target Audience & Use Cases
-
-This project is a proof-of-concept for an advanced analysis tool helpful for several key audiences:
-
-*   **Privacy-Conscious Consumers:** Empowers non-technical users to get a clear, understandable summary of how a website is tracking them, moving beyond simple lists to actionable insights.
-*   **Journalists & Researchers:** Provides a powerful tool for investigating the data-sharing ecosystems of websites, uncovering hidden third-party relationships for data privacy stories.
-*   **Corporate Compliance & Legal Teams:** Offers a starting point for automated audits, helping to verify if a company's marketing and analytics trackers align with its public privacy policy.
-*   **Web Developers:** Allows developers to quickly audit their own sites or third-party dependencies to ensure no unexpected or malicious trackers have been introduced.
-
 ## Beyond a Simple Scanner: Key Differentiators
 
 While many browser extensions can block trackers, this project demonstrates a far more advanced set of AI engineering capabilities. Existing tools are data presenters; this system is a **knowledge synthesis and judgment engine.**
@@ -77,3 +68,11 @@ This project is built on a swarm of collaborating, specialized agents:
     ```bash
     streamlit run app.py
     ```
+    ## Target Audience & Use Cases
+
+This project is a proof-of-concept for an advanced analysis tool helpful for several key audiences:
+
+*   **Privacy-Conscious Consumers:** Empowers non-technical users to get a clear, understandable summary of how a website is tracking them, moving beyond simple lists to actionable insights.
+*   **Journalists & Researchers:** Provides a powerful tool for investigating the data-sharing ecosystems of websites, uncovering hidden third-party relationships for data privacy stories.
+*   **Corporate Compliance & Legal Teams:** Offers a starting point for automated audits, helping to verify if a company's marketing and analytics trackers align with its public privacy policy.
+*   **Web Developers:** Allows developers to quickly audit their own sites or third-party dependencies to ensure no unexpected or malicious trackers have been introduced.
