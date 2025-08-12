@@ -1,0 +1,35 @@
+COMPANY: Google
+TRACKERS: google-analytics.com, googletagmanager.com
+PURPOSE: These are web analytics services offered by Google. They are used by website owners to track and report on how visitors engage with their site. Data collected includes user location, browser type, device, and pages visited. This helps site owners understand their audience.
+
+COMPANY: Google
+TRACKER: doubleclick.net
+PURPOSE: This domain is a core part of Google's advertising platform (Google Ads). It is primarily used to serve targeted display advertisements across a vast network of websites. It sets cookies to track user interactions with these ads and enables ad retargeting, which is when you see ads for a product after visiting its website.
+
+COMPANY: Meta (Facebook)
+TRACKERS: facebook.net, fbcdn.net, connect.facebook.net
+PURPOSE: These domains belong to Meta and are used for a range of social and advertising functions. This includes social plugins (like "Like" and "Share" buttons), the Facebook Pixel for tracking user actions for ad campaigns, and user authentication services ("Log in with Facebook").
+
+COMPANY: Salesforce
+TRACKER: krxd.net
+PURPOSE: This tracker is part of the Salesforce Marketing Cloud. It is a Data Management Platform (DMP). Its primary function is to collect, aggregate, and organize user data from various sources to create detailed audience segments for highly targeted advertising campaigns.
+
+COMPANY: Comscore
+TRACKER: scorecardresearch.com
+PURPOSE: This is a market research service operated by Comscore. It gathers data on internet trends and online user behavior for market analysis reports. It often operates as a web beacon or tracking pixel to measure the audience size and composition of websites.
+
+COMPANY: Criteo
+TRACKER: criteo.com
+PURPOSE: Criteo is a major "ad-tech" company specializing in personalized retargeting. If you see an ad for a specific product you just viewed on another site, it is often powered by Criteo. It tracks the products you view to show you relevant ads later.
+
+COMPANY: Amazon
+TRACKER: amazon-adsystem.com
+PURPOSE: This is Amazon's advertising service. It serves ads both on Amazon's own websites and on third-party sites across the web. It tracks user browsing and shopping behavior to personalize these ads.
+
+COMPANY: Adobe
+TRACKER: adobedtm.com
+PURPOSE: This is Adobe's Dynamic Tag Management system. It is a tool for website owners to manage and deploy marketing and analytics tags (like other trackers) on their website without having to edit the code directly. It acts as a container for other tracking technologies.
+
+COMPANY: Adform
+TRACKER: track.adform.net
+PURPOSE: Adform is an advertising technology company providing a platform for advertisers to buy, manage, and analyze digital ad campaigns. This tracker is used to serve ads and measure their performance and reach.

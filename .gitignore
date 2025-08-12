@@ -1,0 +1,13 @@
+# Ignore the Python virtual environment folder
+venv/
+.venv/
+
+# CRITICAL: Ignore the file containing secret API keys
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore VSCode specific settings
+.vscode/
